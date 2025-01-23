@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My name is Kyle Porter
 - I'm a student at UBC studying computer science
 - I'm currently working on school projects involving:
   - html
