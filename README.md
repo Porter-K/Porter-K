@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm a student at UBC studying computer science
+- I'm currently working on school projects involving:
+  - html
+  - css
+  - javascript
+  - expressjs
+  - nodejs
+  - reactjs
+  - mongodb
+- I have previously worked on projects involving:
+  - java
+  - python
+  - c
+  - mysql
